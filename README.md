@@ -1,5 +1,5 @@
 # Google-Project-Management-Certificate
-Google Project Management Certificate
+
 This course delves into the basics of Project Management, encompassing areas like Project Administration, Responsibilities of Project Leaders, Phases of Project Development, Project Blueprinting, Approaches, Risk Oversight, and Engaging Stakeholders through Communication.
 Project management entails utilizing expertise, capabilities, instruments, and methodologies to fulfill project specifications and attain the intended results.
 Project Lead:
